@@ -3,6 +3,10 @@
 import pandas as pd
 import numpy as np
 
+!git add "commentClassifier.py"
+!git commit -m "from-Mac-Spyder"
+!git push
+
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
